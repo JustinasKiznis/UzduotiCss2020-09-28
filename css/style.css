@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+}
+
+header{
+	margin: 0 auto;
+	align-items: center;
+	width: 50%;
+}
+main article{
+	display: inline-block;
+	width: 19%;
+}
+main article{
+	
+}
