@@ -34,9 +34,16 @@ main article{
 
 }
 footer {
-	width: 28%;
 	margin: 0 auto;
+	width: 28%;
 }
 footer * {
-	display: inline-block;
+	display: inline-block;	
+}
+
+footer p {
+	color: #737373;
+}
+footer img{
+	margin-top: 20px;
 }
